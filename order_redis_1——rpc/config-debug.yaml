@@ -1,0 +1,7 @@
+name: "user.rpc"
+
+
+consul:
+  host: "192.168.38.128"
+  port: 8500
+
